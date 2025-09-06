@@ -10,15 +10,15 @@ https://www.tooplate.com/view/2134-gotto-job
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #5d52ba;
-  --secondary-color:              #0dcaf0;
+  --white-color:                  #f5f0f0;
+  --primary-color:                #09be09;
+  --secondary-color:              #63c450;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #f65129;
+  --custom-btn-bg-color:          #8f1f1f;
   --social-icon-link-bg-color:    #7f73eb;
   --dark-color:                   #000000;
   --p-color:                      #717275;
-  --border-color:                 #e9eaeb;
+  --border-color:                 #e7edf3;
 
   --body-font-family:             'League Spartan', sans-serif;
 
@@ -497,7 +497,7 @@ nav[aria-label="breadcrumb"] {
 
 .dropdown-menu {
   background: var(--white-color);
-  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+  box-shadow: 0 1rem 3rem rgba(112, 16, 16, 0.175);
   border: 0;
   padding: 0;
   margin-top: 20px;
@@ -1395,11 +1395,11 @@ nav[aria-label="breadcrumb"] {
 
 @media screen and (max-width: 991px) {
   h1 {
-    font-size: 48px;
+    font-size: 52px;
   }
 
   h2 {
-    font-size: 36px;
+    font-size: 38px;
   }
 
   h3 {
@@ -1524,7 +1524,7 @@ nav[aria-label="breadcrumb"] {
   }
 
   h5 {
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .badge {
